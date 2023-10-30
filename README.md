@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yoshi Malaise
-Phd Candidate @ Vrije Universiteit Brussel
+PhD Candidate @ Vrije Universiteit Brussel
 
 “Education doesn’t need to be reformed it needs to be transformed” -Ken Robinson
 
