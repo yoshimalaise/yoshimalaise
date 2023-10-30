@@ -52,14 +52,14 @@ In Proceedings of SIGCSE 2023, 54th ACM Technical Symposium on
 Computer Science Education, Toronto, Canada, March 2023. ACM. 2023. p. 1090–1096 <br/> https://doi.org/10.1145/3545945.3569771
 - King’s Scroll: An Educational Game to Practise Code Prediction
 In Proceedings of SIGCSE 2023 (Poster), 54th ACM Technical
-Symposium on Computer Science Education, Toronto, Canada, March 2023. ACM. 2023. p. 1367–1367 https://doi.org/10.1145/3545947.3576311
+Symposium on Computer Science Education, Toronto, Canada, March 2023. ACM. 2023. p. 1367–1367 <br/> https://doi.org/10.1145/3545947.3576311
 - Codeschool in a Box: A Low‐barrier Approach to Packaging Programming
 Curricula In Proceedings of CSEDU 2023, 15th International Conference on
-Computer Supported Education, Prague, Czech Republic, April 2023. Scitepress. 2023. p. 281–288 https://doi.org/10.5220/0011967900003470
+Computer Supported Education, Prague, Czech Republic, April 2023. Scitepress. 2023. p. 281–288 <br/> https://doi.org/10.5220/0011967900003470
 - Personalised Learning Environments Based on Knowledge Graphs and the
 Zone of Proximal Development
 In Proceedings of CSEDU 2022, 14th International Conference on
-Computer Supported Education, Online Event, April 2022. Scitepress. 2022. p. 199–206 https://doi.org/10.5220/0010998600003182
+Computer Supported Education, Online Event, April 2022. Scitepress. 2022. p. 199–206 <br/> https://doi.org/10.5220/0010998600003182
 
 ### 🧑‍🏭 Industry Experience
 - PhD Student @ VUB 2022-...
