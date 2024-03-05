@@ -48,7 +48,7 @@ for an audience of open source developers
 
 ### 📜 Publications
 - Explorotron: An IDE Extension for Guided and Independent Code Exploration and Learning
-In Proceedings of Koli Calling 2023, 23rd International conference on Computing Education Research, Koli, Finland, November 2023. <br/> https://doi.org/10.1145/3631802.3631816 (Not yet released).
+In Proceedings of Koli Calling 2023, 23rd International conference on Computing Education Research, Koli, Finland, November 2023. <br/> https://doi.org/10.1145/3631802.3631816.
 - Computing Education Research as a Translational Transdiscipline
 In Proceedings of SIGCSE 2023, 54th ACM Technical Symposium on
 Computer Science Education, Toronto, Canada, March 2023. ACM. 2023. p. 1090–1096 <br/> https://doi.org/10.1145/3545945.3569771
