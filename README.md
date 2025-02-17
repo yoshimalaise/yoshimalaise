@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Yoshi Malaise
+Integration Engineer @ Digipolis Antwerpen
 PhD Candidate @ Vrije Universiteit Brussel
 
-“Education doesn’t need to be reformed it needs to be transformed” -Ken Robinson
+As a Full-Stack Software Engineer with a passion for writing software that positively impacts users, I bring more than 3 years of experience in developing robust, user-centric applications. My expertise spans both front-end and back-end technologies, allowing me to create seamless and efficient applications tailored towards the needs of my users. Throughout my career, I have successfully built and evaluated Proof-of-Concepts to investigate experimental new approaches as well as contributed to large applications that are actively used by thousands of users. My work in R\&D has equipped me with the ability to innovate and adapt quickly, turning ideas into practical, high-impact solutions. My commitment to innovation and excellence drives my ongoing pursuit of creating software that makes a meaningful difference. 
 
-A quote I first heard during my internship abroad at Elewa, a company striving to offer quality education at all schools in Kenya even those from less fortunate areas. Working in collaboration with schools in Kenya was truly an eye-opening experience for me. Technology can be used to improve education for everyone everywhere, and better education gives everyone a more equal chance for a better future. 
-
-This is why I have been working on open source tools and resources in the domain of Computing Education Research, feel free to check them out and star them if you like them!
+Aside from software engineering I am also passionate about accessible and open education. This is why I have been working on open source tools and resources in the domain of Computing Education Research, feel free to check them out and star them if you like them!
 
 ### 🔦 projects in the spotlight
 - [King's Scroll: the search for the chosen one](https://kings-scroll.netlify.app)
